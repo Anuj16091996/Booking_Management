@@ -1,0 +1,26 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.Header {
+    background-color: #545454;
+    padding: 01% 0% 1% 0%;
+    width: 100%;
+    position: fixed;
+}
+
+.Logo {
+    width: 30%;
+}
+
+.Footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #545454;
+    padding: 03% 0% 3% 0%;
+
+}
+
+
